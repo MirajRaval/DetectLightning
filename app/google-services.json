@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "255307369940",
+    "firebase_url": "https://detect-lightning.firebaseio.com",
+    "project_id": "detect-lightning",
+    "storage_bucket": "detect-lightning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255307369940:android:97703d45eaa61a47bbda41",
+        "android_client_info": {
+          "package_name": "com.miraj.detectlightning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255307369940-d8rne4v2et648kemgn66rskdct2vjr2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPHy0Dwe1QJSxTBSivmiDYQATlQFtbGfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255307369940-d8rne4v2et648kemgn66rskdct2vjr2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
